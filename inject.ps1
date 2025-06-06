@@ -1,7 +1,7 @@
 Start-Sleep -Seconds 15
 
 # 🔗 Replace this with your DLL's RAW GitHub URL
-$dllUrl = "https://raw.githubusercontent.com/username/repo/main/your.dll"
+$dllUrl = "https://raw.githubusercontent.com/shreyashtech/tsting/main/chams.dll"
 
 # Download DLL into memory
 $webClient = New-Object System.Net.WebClient
